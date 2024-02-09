@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:android="clr-namespace:Xamarin.Forms.PlatformConfiguration.AndroidSpecific;assembly=Xamarin.Forms.Core"
+             x:Class="Lab_1_cpd.Home"
+             BackgroundColor="Beige">
+
+    <StackLayout>
+        <Image Source="home_icon.png" HeightRequest="100" WidthRequest="100" Margin="0,20,0,0" HorizontalOptions="Center"/>
+        <Label Text="Welcome to the Home Page" HorizontalOptions="CenterAndExpand" VerticalOptions="Center" FontSize="Large"/>
+        <Button Text="Go to Details Page" Clicked="Button_Clicked" HorizontalOptions="CenterAndExpand"/>
+    </StackLayout>
+
+</ContentPage>

@@ -1,0 +1,15 @@
+C:\Users\arwa1\source\repos\lec6_xaml\lec6_xaml\bin\Debug\netstandard2.0\lec6_xaml.deps.json
+C:\Users\arwa1\source\repos\lec6_xaml\lec6_xaml\bin\Debug\netstandard2.0\lec6_xaml.dll
+C:\Users\arwa1\source\repos\lec6_xaml\lec6_xaml\bin\Debug\netstandard2.0\ref\lec6_xaml.dll
+C:\Users\arwa1\source\repos\lec6_xaml\lec6_xaml\bin\Debug\netstandard2.0\lec6_xaml.pdb
+C:\Users\arwa1\source\repos\lec6_xaml\lec6_xaml\obj\Debug\netstandard2.0\lec6_xaml.csproj.AssemblyReference.cache
+C:\Users\arwa1\source\repos\lec6_xaml\lec6_xaml\obj\Debug\netstandard2.0\lec6_xaml.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arwa1\source\repos\lec6_xaml\lec6_xaml\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\arwa1\source\repos\lec6_xaml\lec6_xaml\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\arwa1\source\repos\lec6_xaml\lec6_xaml\obj\Debug\netstandard2.0\lec6_xaml.AssemblyInfoInputs.cache
+C:\Users\arwa1\source\repos\lec6_xaml\lec6_xaml\obj\Debug\netstandard2.0\lec6_xaml.AssemblyInfo.cs
+C:\Users\arwa1\source\repos\lec6_xaml\lec6_xaml\obj\Debug\netstandard2.0\lec6_xaml.csproj.CoreCompileInputs.cache
+C:\Users\arwa1\source\repos\lec6_xaml\lec6_xaml\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\arwa1\source\repos\lec6_xaml\lec6_xaml\obj\Debug\netstandard2.0\lec6_xaml.dll
+C:\Users\arwa1\source\repos\lec6_xaml\lec6_xaml\obj\Debug\netstandard2.0\refint\lec6_xaml.dll
+C:\Users\arwa1\source\repos\lec6_xaml\lec6_xaml\obj\Debug\netstandard2.0\lec6_xaml.pdb

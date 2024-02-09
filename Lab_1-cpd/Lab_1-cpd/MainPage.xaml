@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+            xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+            x:Class="Lab_1_cpd.MainPage"
+            xmlns:local="clr-namespace:Lab_1_cpd"
+            xmlns:android="clr-namespace:Xamarin.Forms.PlatformConfiguration.AndroidSpecific;assembly=Xamarin.Forms.Core"
+            android:TabbedPage.ToolbarPlacement="Bottom"
+            BarBackgroundColor="Black"
+            UnselectedTabColor="Gray"
+            SelectedTabColor="White">
+
+    <local:Home Title="Home" IconImageSource="home.png" BackgroundColor="Beige" />
+    <local:Profile Title="Profile" IconImageSource="user.png" />
+
+</TabbedPage>

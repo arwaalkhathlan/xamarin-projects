@@ -1,0 +1,100 @@
+﻿<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="scroll_layout.MainPage">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="9*" />
+            <RowDefinition Height="1*" />
+        </Grid.RowDefinitions>
+        
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+        <ScrollView
+            Grid.Row="0"
+            Grid.Column="0">
+            <StackLayout
+                BackgroundColor="LightPink"
+                Spacing="40">
+
+                <Label Text="Scrollable area" HorizontalOptions="CenterAndExpand"
+                       VerticalOptions="CenterAndExpand"
+                       TextColor="White"/>
+
+                <Label Text="Scrollable area" HorizontalOptions="CenterAndExpand"
+                       VerticalOptions="CenterAndExpand"
+                       TextColor="White"/>
+
+                <Label Text="Scrollable area" HorizontalOptions="CenterAndExpand"
+                       VerticalOptions="CenterAndExpand"
+                       TextColor="White"/>
+
+                <Label Text="Scrollable area" HorizontalOptions="CenterAndExpand"
+                       VerticalOptions="CenterAndExpand"
+                       TextColor="White"/>
+
+                <Label Text="Scrollable area" HorizontalOptions="CenterAndExpand"
+                       VerticalOptions="CenterAndExpand"
+                       TextColor="White"/>
+
+                <Label Text="Scrollable area" HorizontalOptions="CenterAndExpand"
+                       VerticalOptions="CenterAndExpand"
+                       TextColor="White"/>
+
+                <Label Text="Scrollable area" HorizontalOptions="CenterAndExpand"
+                       VerticalOptions="CenterAndExpand"
+                       TextColor="White"/>
+
+                <Label Text="Scrollable area" HorizontalOptions="CenterAndExpand"
+                       VerticalOptions="CenterAndExpand"
+                       TextColor="White"/>
+                <Label Text="Scrollable area" HorizontalOptions="CenterAndExpand"
+                       VerticalOptions="CenterAndExpand"
+                       TextColor="White"/>
+                <Label Text="Scrollable area" HorizontalOptions="CenterAndExpand"
+                       VerticalOptions="CenterAndExpand"
+                       TextColor="White"/>
+                <Label Text="Scrollable area" HorizontalOptions="CenterAndExpand"
+                       VerticalOptions="CenterAndExpand"
+                       TextColor="White"/>
+                <Label Text="Scrollable area" HorizontalOptions="CenterAndExpand"
+                       VerticalOptions="CenterAndExpand"
+                       TextColor="White"/>
+                <Label Text="Scrollable area" HorizontalOptions="CenterAndExpand"
+                       VerticalOptions="CenterAndExpand"
+                       TextColor="White"/>
+                <Label Text="Scrollable area" HorizontalOptions="CenterAndExpand"
+                       VerticalOptions="CenterAndExpand"
+                       TextColor="White"/>
+            </StackLayout>
+        </ScrollView>
+        <StackLayout
+            Grid.Row="1"
+            Grid.Column="0"
+            HorizontalOptions="CenterAndExpand"
+            VerticalOptions="StartAndExpand"
+            Orientation="Horizontal">
+
+            <Button
+                HeightRequest="40"
+                WidthRequest="100"
+                BackgroundColor="Red"
+                Text="First"
+                TextColor="White"/>
+            <Button
+                HeightRequest="40"
+                WidthRequest="100"
+                BackgroundColor="Red"
+                Text="Second"
+                TextColor="White"/>
+            <Button
+                HeightRequest="40"
+                WidthRequest="100"
+                BackgroundColor="Red"
+                Text="Third"
+                TextColor="White"/>
+        </StackLayout>
+    </Grid>
+
+</ContentPage>
+

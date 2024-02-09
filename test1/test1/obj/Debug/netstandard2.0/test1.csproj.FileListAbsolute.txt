@@ -1,0 +1,15 @@
+C:\Users\arwa1\source\repos\test1\test1\bin\Debug\netstandard2.0\test1.deps.json
+C:\Users\arwa1\source\repos\test1\test1\bin\Debug\netstandard2.0\test1.dll
+C:\Users\arwa1\source\repos\test1\test1\bin\Debug\netstandard2.0\ref\test1.dll
+C:\Users\arwa1\source\repos\test1\test1\bin\Debug\netstandard2.0\test1.pdb
+C:\Users\arwa1\source\repos\test1\test1\obj\Debug\netstandard2.0\test1.csproj.AssemblyReference.cache
+C:\Users\arwa1\source\repos\test1\test1\obj\Debug\netstandard2.0\test1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arwa1\source\repos\test1\test1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\arwa1\source\repos\test1\test1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\arwa1\source\repos\test1\test1\obj\Debug\netstandard2.0\test1.AssemblyInfoInputs.cache
+C:\Users\arwa1\source\repos\test1\test1\obj\Debug\netstandard2.0\test1.AssemblyInfo.cs
+C:\Users\arwa1\source\repos\test1\test1\obj\Debug\netstandard2.0\test1.csproj.CoreCompileInputs.cache
+C:\Users\arwa1\source\repos\test1\test1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\arwa1\source\repos\test1\test1\obj\Debug\netstandard2.0\test1.dll
+C:\Users\arwa1\source\repos\test1\test1\obj\Debug\netstandard2.0\refint\test1.dll
+C:\Users\arwa1\source\repos\test1\test1\obj\Debug\netstandard2.0\test1.pdb

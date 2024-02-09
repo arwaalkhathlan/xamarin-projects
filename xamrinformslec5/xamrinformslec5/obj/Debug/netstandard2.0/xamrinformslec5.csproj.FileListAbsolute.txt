@@ -1,0 +1,15 @@
+C:\Users\arwa1\source\repos\xamrinformslec5\xamrinformslec5\bin\Debug\netstandard2.0\xamrinformslec5.deps.json
+C:\Users\arwa1\source\repos\xamrinformslec5\xamrinformslec5\bin\Debug\netstandard2.0\xamrinformslec5.dll
+C:\Users\arwa1\source\repos\xamrinformslec5\xamrinformslec5\bin\Debug\netstandard2.0\ref\xamrinformslec5.dll
+C:\Users\arwa1\source\repos\xamrinformslec5\xamrinformslec5\bin\Debug\netstandard2.0\xamrinformslec5.pdb
+C:\Users\arwa1\source\repos\xamrinformslec5\xamrinformslec5\obj\Debug\netstandard2.0\xamrinformslec5.csproj.AssemblyReference.cache
+C:\Users\arwa1\source\repos\xamrinformslec5\xamrinformslec5\obj\Debug\netstandard2.0\xamrinformslec5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arwa1\source\repos\xamrinformslec5\xamrinformslec5\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\arwa1\source\repos\xamrinformslec5\xamrinformslec5\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\arwa1\source\repos\xamrinformslec5\xamrinformslec5\obj\Debug\netstandard2.0\xamrinformslec5.AssemblyInfoInputs.cache
+C:\Users\arwa1\source\repos\xamrinformslec5\xamrinformslec5\obj\Debug\netstandard2.0\xamrinformslec5.AssemblyInfo.cs
+C:\Users\arwa1\source\repos\xamrinformslec5\xamrinformslec5\obj\Debug\netstandard2.0\xamrinformslec5.csproj.CoreCompileInputs.cache
+C:\Users\arwa1\source\repos\xamrinformslec5\xamrinformslec5\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\arwa1\source\repos\xamrinformslec5\xamrinformslec5\obj\Debug\netstandard2.0\xamrinformslec5.dll
+C:\Users\arwa1\source\repos\xamrinformslec5\xamrinformslec5\obj\Debug\netstandard2.0\refint\xamrinformslec5.dll
+C:\Users\arwa1\source\repos\xamrinformslec5\xamrinformslec5\obj\Debug\netstandard2.0\xamrinformslec5.pdb

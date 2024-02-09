@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Lab2_assignment2_1.MainPage">
+
+    <StackLayout HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand">
+        <StackLayout BackgroundColor="DeepPink" Padding="20">
+        <Label Text="{Binding FirstName, TargetNullValue='N/A'}" TextColor="pink" />
+        <Label>
+            <Label.FormattedText>
+                <FormattedString>
+                    <Span Text="{Binding LastName, TargetNullValue='Alkhthlan'}" TextColor="pink"  />
+                    <Span Text=" " />
+                    <Span Text="{Binding Age, StringFormat='(Age: {0})', FallbackValue='Unknown'}" TextColor="pink"  />
+                </FormattedString>
+            </Label.FormattedText>
+        </Label>
+    </StackLayout>
+    </StackLayout>
+
+</ContentPage>

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "8R1UoZ0ZO7+uFgC38E1LL5Bx3nDPPRG9xKTOkLUzqTQbmLKCzRR94KSsEuUiEyox3BhDweM2ljzNL0/WgZiBWg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\arwa1\\source\\repos\\scroll layout\\scroll layout.iOS\\scroll layout.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\arwa1\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\arwa1\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\arwa1\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

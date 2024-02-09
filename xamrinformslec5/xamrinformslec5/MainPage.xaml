@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="xamrinformslec5.MainPage"
+             BackgroundColor="Black">
+
+    <StackLayout>
+
+        <Entry x:Name="entry" Text="I am an Entry" />
+        <Entry x:Name="entry1" Text="I am an Entry" />
+
+        <Button x:Name="PressMeButton"
+        Text="Press Me!"
+        Pressed="PressMeButton_Pressed"
+        Clicked="PressMeButton_Clicked"/>
+
+    </StackLayout>
+
+</ContentPage>

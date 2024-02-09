@@ -1,0 +1,16 @@
+C:\Users\arwa1\source\repos\app design\app design\bin\Debug\netstandard2.0\app design.deps.json
+C:\Users\arwa1\source\repos\app design\app design\bin\Debug\netstandard2.0\app design.dll
+C:\Users\arwa1\source\repos\app design\app design\bin\Debug\netstandard2.0\ref\app design.dll
+C:\Users\arwa1\source\repos\app design\app design\bin\Debug\netstandard2.0\app design.pdb
+C:\Users\arwa1\source\repos\app design\app design\obj\Debug\netstandard2.0\app design.csproj.AssemblyReference.cache
+C:\Users\arwa1\source\repos\app design\app design\obj\Debug\netstandard2.0\app design.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arwa1\source\repos\app design\app design\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\arwa1\source\repos\app design\app design\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\arwa1\source\repos\app design\app design\obj\Debug\netstandard2.0\app design.AssemblyInfoInputs.cache
+C:\Users\arwa1\source\repos\app design\app design\obj\Debug\netstandard2.0\app design.AssemblyInfo.cs
+C:\Users\arwa1\source\repos\app design\app design\obj\Debug\netstandard2.0\app design.csproj.CoreCompileInputs.cache
+C:\Users\arwa1\source\repos\app design\app design\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\arwa1\source\repos\app design\app design\obj\Debug\netstandard2.0\app design.dll
+C:\Users\arwa1\source\repos\app design\app design\obj\Debug\netstandard2.0\refint\app design.dll
+C:\Users\arwa1\source\repos\app design\app design\obj\Debug\netstandard2.0\app design.pdb
+C:\Users\arwa1\source\repos\app design\app design\obj\Debug\netstandard2.0\profile.xaml.g.cs

@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="lec6_xaml.MainPage" BackgroundColor="LightGray">
+
+    <ContentPage.Content>
+        
+        <StackLayout>
+            
+            <Grid RowSpacing="0" BackgroundColor="LightSlateGray" >
+
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="*"/>
+
+                </Grid.RowDefinitions>
+                <Label Text="CALL" HorizontalOptions="Center" FontSize="32" FontAttributes="Bold" Opacity="0.6" />
+
+                <StackLayout Grid.Row="0" HeightRequest="50"/>
+            </Grid>
+
+            <TableView Intent="Form">
+                <TableRoot>
+                    <TableSection>
+                        <TextCell Text="REEM" Detail="0545981223"></TextCell>
+                        <ImageCell ImageSource="https://t3.gstatic.com/licensed-image?q=tbn:ANd9GcS4WH3Cpe1X75X4LhbHdyJo3vPEs0ufiHQhHjkqEnMjbPqViSEVI-nqF0NpeLscSR-7" Text="may" Detail="2220002480"></ImageCell>
+                        <ImageCell ImageSource="https://www.theflowerconnection.co.uk/wp-content/uploads/2023/05/purple-flower.png" Text="dana" Detail="05051111345"></ImageCell>
+
+                    </TableSection >
+
+                </TableRoot>
+
+            </TableView>
+            
+            <Button Text="you can't click me" TextColor="Yellow" IsEnabled="False"/>
+            <Label  Text="im not visible" TextColor="Black"  IsVisible="False" />
+            <Button  x:Name="Text" Text="im using focused property" Clicked="Text_Clicked" />
+
+            <Label Text="Opacity example" Opacity="0.10" BackgroundColor="blue" FontSize="32">
+            </Label>
+
+           
+
+        </StackLayout>
+    </ContentPage.Content>
+
+
+
+
+</ContentPage>

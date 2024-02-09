@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Lab2_assignment"
+             x:Class="Lab2_assignment.MainPage"
+             BackgroundColor="LightBlue">
+
+    <StackLayout>
+        
+        
+        <Label x:Name="rotatedText" Text="Rotated Text" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" />
+        <Slider x:Name="rotationSlider" Maximum="360" ValueChanged="OnSliderValueChanged" VerticalOptions="CenterAndExpand" BackgroundColor="Black" />
+        
+    </StackLayout>
+
+
+</ContentPage>

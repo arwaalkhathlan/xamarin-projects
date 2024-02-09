@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+    <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:assignment4"
+             x:Class="assignment4.MainPage"
+             Title="Basic Button Command" BackgroundColor="#FDEBF7">
+
+
+
+    <ContentPage.BindingContext>
+        <local:CommandDemoViewModel/>
+    </ContentPage.BindingContext>
+    
+    
+    
+        <StackLayout>
+            
+
+        <Label Text="Button"
+               FontSize="32"
+               FontAttributes="Bold"
+               HorizontalOptions="FillAndExpand" 
+               Background="#FFADF0"/>
+
+        <Label Text="{Binding Number, StringFormat='Value is now {0}'}"
+       FontSize="Large"
+       VerticalOptions="CenterAndExpand"
+       HorizontalOptions="Center" />
+
+        <Button Text="Multiply by 2"
+        VerticalOptions="CenterAndExpand"
+        HorizontalOptions="Center"
+        Command="{Binding MultiplyBy2Command}" />
+
+        <Button Text="Divide by 2"
+        VerticalOptions="CenterAndExpand"
+        HorizontalOptions="Center"
+        Command="{Binding DivideBy2Command}" />
+
+        <Label Text="RadioButton"
+               FontSize="32"
+               FontAttributes="Bold"
+               HorizontalOptions="Center" 
+               Background="#FFADF0"/>
+        <StackLayout RadioButtonGroup.GroupName="animals">
+            <Label Text="What's your favorite animal?" />
+            <RadioButton Content="Cat" />
+            <RadioButton Content="Dog" />
+            <RadioButton Content="Elephant" />
+            <RadioButton Content="Monkey"
+                 />
+        </StackLayout>
+
+
+        <Label Text="ImageButton"
+               FontSize="32"
+               FontAttributes="Bold"
+               HorizontalOptions="Center"  
+               Background="#FFADF0"/>
+
+        <ImageButton Source="download.png"
+                    HorizontalOptions="Start"
+                    VerticalOptions="Start" 
+                     Clicked="ImageButton_Clicked"/>
+
+        <Label x:Name="label"
+               Text="0 ImageButton clicks"
+               FontSize="Large"
+               HorizontalOptions="Center"
+               VerticalOptions="Start" />
+
+
+    </StackLayout>
+
+</ContentPage>

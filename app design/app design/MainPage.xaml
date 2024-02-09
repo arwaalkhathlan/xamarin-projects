@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="app_design.MainPage">
+
+    <StackLayout>
+        <Grid>
+            
+            <Grid.RowDefinitions>
+                <RowDefinition Height="50"  />
+                <RowDefinition Height="*" />
+                <RowDefinition Height="Auto" />
+            </Grid.RowDefinitions>
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="50" />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="Auto" />
+            </Grid.ColumnDefinitions>
+
+            <ImageButton Grid.Column="0"  Grid.Row="0" Source="sai.png" BackgroundColor="Black" Clicked="ImageButton_Clicked"/>
+            <Label  Grid.Column="1" Grid.Row="0" VerticalTextAlignment="Center" Text="User Name" TextColor="white" BackgroundColor="Black"/>
+
+
+
+        </Grid>
+    </StackLayout>
+
+</ContentPage>

@@ -1,0 +1,15 @@
+C:\Users\arwa1\source\repos\assignmentcpd\assignmentcpd\bin\Debug\netstandard2.0\assignmentcpd.deps.json
+C:\Users\arwa1\source\repos\assignmentcpd\assignmentcpd\bin\Debug\netstandard2.0\assignmentcpd.dll
+C:\Users\arwa1\source\repos\assignmentcpd\assignmentcpd\bin\Debug\netstandard2.0\ref\assignmentcpd.dll
+C:\Users\arwa1\source\repos\assignmentcpd\assignmentcpd\bin\Debug\netstandard2.0\assignmentcpd.pdb
+C:\Users\arwa1\source\repos\assignmentcpd\assignmentcpd\obj\Debug\netstandard2.0\assignmentcpd.csproj.AssemblyReference.cache
+C:\Users\arwa1\source\repos\assignmentcpd\assignmentcpd\obj\Debug\netstandard2.0\assignmentcpd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arwa1\source\repos\assignmentcpd\assignmentcpd\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\arwa1\source\repos\assignmentcpd\assignmentcpd\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\arwa1\source\repos\assignmentcpd\assignmentcpd\obj\Debug\netstandard2.0\assignmentcpd.AssemblyInfoInputs.cache
+C:\Users\arwa1\source\repos\assignmentcpd\assignmentcpd\obj\Debug\netstandard2.0\assignmentcpd.AssemblyInfo.cs
+C:\Users\arwa1\source\repos\assignmentcpd\assignmentcpd\obj\Debug\netstandard2.0\assignmentcpd.csproj.CoreCompileInputs.cache
+C:\Users\arwa1\source\repos\assignmentcpd\assignmentcpd\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\arwa1\source\repos\assignmentcpd\assignmentcpd\obj\Debug\netstandard2.0\assignmentcpd.dll
+C:\Users\arwa1\source\repos\assignmentcpd\assignmentcpd\obj\Debug\netstandard2.0\refint\assignmentcpd.dll
+C:\Users\arwa1\source\repos\assignmentcpd\assignmentcpd\obj\Debug\netstandard2.0\assignmentcpd.pdb

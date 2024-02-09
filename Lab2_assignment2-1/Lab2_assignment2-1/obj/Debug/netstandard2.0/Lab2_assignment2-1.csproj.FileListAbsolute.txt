@@ -1,0 +1,15 @@
+C:\Users\arwa1\source\repos\Lab2_assignment2-1\Lab2_assignment2-1\bin\Debug\netstandard2.0\Lab2_assignment2-1.deps.json
+C:\Users\arwa1\source\repos\Lab2_assignment2-1\Lab2_assignment2-1\bin\Debug\netstandard2.0\Lab2_assignment2-1.dll
+C:\Users\arwa1\source\repos\Lab2_assignment2-1\Lab2_assignment2-1\bin\Debug\netstandard2.0\ref\Lab2_assignment2-1.dll
+C:\Users\arwa1\source\repos\Lab2_assignment2-1\Lab2_assignment2-1\bin\Debug\netstandard2.0\Lab2_assignment2-1.pdb
+C:\Users\arwa1\source\repos\Lab2_assignment2-1\Lab2_assignment2-1\obj\Debug\netstandard2.0\Lab2_assignment2-1.csproj.AssemblyReference.cache
+C:\Users\arwa1\source\repos\Lab2_assignment2-1\Lab2_assignment2-1\obj\Debug\netstandard2.0\Lab2_assignment2-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arwa1\source\repos\Lab2_assignment2-1\Lab2_assignment2-1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\arwa1\source\repos\Lab2_assignment2-1\Lab2_assignment2-1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\arwa1\source\repos\Lab2_assignment2-1\Lab2_assignment2-1\obj\Debug\netstandard2.0\Lab2_assignment2-1.AssemblyInfoInputs.cache
+C:\Users\arwa1\source\repos\Lab2_assignment2-1\Lab2_assignment2-1\obj\Debug\netstandard2.0\Lab2_assignment2-1.AssemblyInfo.cs
+C:\Users\arwa1\source\repos\Lab2_assignment2-1\Lab2_assignment2-1\obj\Debug\netstandard2.0\Lab2_assignment2-1.csproj.CoreCompileInputs.cache
+C:\Users\arwa1\source\repos\Lab2_assignment2-1\Lab2_assignment2-1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\arwa1\source\repos\Lab2_assignment2-1\Lab2_assignment2-1\obj\Debug\netstandard2.0\Lab2_assignment2-1.dll
+C:\Users\arwa1\source\repos\Lab2_assignment2-1\Lab2_assignment2-1\obj\Debug\netstandard2.0\refint\Lab2_assignment2-1.dll
+C:\Users\arwa1\source\repos\Lab2_assignment2-1\Lab2_assignment2-1\obj\Debug\netstandard2.0\Lab2_assignment2-1.pdb

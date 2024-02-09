@@ -1,0 +1,15 @@
+C:\Users\arwa1\source\repos\scroll layout\scroll layout\obj\Debug\netstandard2.0\scroll layout.csproj.AssemblyReference.cache
+C:\Users\arwa1\source\repos\scroll layout\scroll layout\obj\Debug\netstandard2.0\scroll layout.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arwa1\source\repos\scroll layout\scroll layout\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\arwa1\source\repos\scroll layout\scroll layout\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\arwa1\source\repos\scroll layout\scroll layout\obj\Debug\netstandard2.0\scroll layout.AssemblyInfoInputs.cache
+C:\Users\arwa1\source\repos\scroll layout\scroll layout\obj\Debug\netstandard2.0\scroll layout.AssemblyInfo.cs
+C:\Users\arwa1\source\repos\scroll layout\scroll layout\obj\Debug\netstandard2.0\scroll layout.csproj.CoreCompileInputs.cache
+C:\Users\arwa1\source\repos\scroll layout\scroll layout\obj\Debug\netstandard2.0\scroll layout.dll
+C:\Users\arwa1\source\repos\scroll layout\scroll layout\obj\Debug\netstandard2.0\refint\scroll layout.dll
+C:\Users\arwa1\source\repos\scroll layout\scroll layout\obj\Debug\netstandard2.0\scroll layout.pdb
+C:\Users\arwa1\source\repos\scroll layout\scroll layout\bin\Debug\netstandard2.0\scroll layout.deps.json
+C:\Users\arwa1\source\repos\scroll layout\scroll layout\bin\Debug\netstandard2.0\scroll layout.dll
+C:\Users\arwa1\source\repos\scroll layout\scroll layout\bin\Debug\netstandard2.0\ref\scroll layout.dll
+C:\Users\arwa1\source\repos\scroll layout\scroll layout\bin\Debug\netstandard2.0\scroll layout.pdb
+C:\Users\arwa1\source\repos\scroll layout\scroll layout\obj\Debug\netstandard2.0\XamlC.stamp

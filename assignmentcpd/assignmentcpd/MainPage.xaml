@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="assignmentcpd.MainPage"
+             xmlns:map="clr-namespace:Xamarin.Forms.Maps;assembly=Xamarin.Forms.Maps">
+    <ContentPage.Content>
+        <ScrollView BackgroundColor="#ffc8dd">
+        <StackLayout>
+                <Label  Background="#ff8fab"></Label>
+
+                <Grid   Background="#ffafcc" Padding="10">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="110"/>
+                    <ColumnDefinition Width="120"/>
+                    <ColumnDefinition Width="100"/>
+                    <ColumnDefinition Width="100"/>
+                    
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="50"/>
+                    <RowDefinition Height="50"  />
+                    
+                 </Grid.RowDefinitions>
+
+                <BoxView HeightRequest="10"/>
+
+                <Image Grid.Row="0" Grid.Column="0" Grid.RowSpan="2" Source="cat.jpg" HorizontalOptions="Start" VerticalOptions="Start" MinimumHeightRequest="100"  />
+                <Label Grid.Row="0" Grid.Column="1" Grid.ColumnSpan="3"  Text="user: Arwa Alkhathlan" FontSize="20" FontAttributes="Bold" TextColor="White"  WidthRequest="250" VerticalTextAlignment="Center" HorizontalOptions="StartAndExpand"  ></Label>
+                    <Label Grid.Row="1" Grid.Column="1" Grid.ColumnSpan="3" Text="ID:  2210006186" FontSize="20" FontAttributes="Bold" TextColor="White" WidthRequest="250" VerticalTextAlignment="Center" HorizontalOptions="StartAndExpand"  />
+            </Grid>
+
+                <Label  Text="Events" FontAttributes="Bold" FontSize="20" TextColor="White" Background="#ff8fab" WidthRequest="390" VerticalTextAlignment="Center" HorizontalTextAlignment="Center" HorizontalOptions="Center"  />
+
+
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="Auto"/>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="300"/>
+                        <RowDefinition Height="*"  />
+                        <RowDefinition Height="300"  />
+                        <RowDefinition Height="*"  />
+                        <RowDefinition Height="300"  />
+                        
+                    </Grid.RowDefinitions>
+                    <TableView Intent="Menu"  Grid.Row="0" Grid.ColumnSpan="6">
+
+                        <TableRoot>
+
+                            <TableSection >
+
+                                <SwitchCell Text="close to you" On="True" OnColor="DeepPink" OnChanged="SwitchCell_OnChanged" />
+                                <ImageCell  ImageSource="frozen.jpg" ></ImageCell>
+                                <ImageCell  ImageSource="world.jpg"  ></ImageCell>
+                                <ImageCell  ImageSource="zoo.jpg"    ></ImageCell>
+                                <TextCell   Text="More" TextColor="DeepPink"/>
+                            </TableSection>
+                        </TableRoot>
+                    </TableView>
+                    <Label Grid.Row="1" FontAttributes="Bold" Grid.Column="0" Grid.ColumnSpan="6" Background="#ff8fab" TextColor="White" FontSize="20" HorizontalTextAlignment="Center" Text="Our website"></Label>
+                    <WebView  Grid.Row="2" Grid.Column="0"  Grid.ColumnSpan="6"  VerticalOptions="FillAndExpand" Source="https://riyadhseason.com/en-US"/>
+                    <Label Grid.Row="3" FontAttributes="Bold" Grid.Column="0" Grid.ColumnSpan="6" Background="#ff8fab" TextColor="White" FontSize="20" HorizontalTextAlignment="Center" Text="Our Location"></Label>
+                    <map:Map Grid.Row="4" Grid.Column="0" Grid.ColumnSpan="6" IsShowingUser="True"></map:Map>
+
+
+
+
+                </Grid>
+
+
+
+
+
+
+            </StackLayout>
+    </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

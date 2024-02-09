@@ -1,0 +1,25 @@
+﻿<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Lab2_assignment_3.MainPage">
+
+    <StackLayout HorizontalOptions="Center" VerticalOptions="CenterAndExpand">
+        
+        <Entry x:Name="input1" Placeholder="Enter your First Name" BackgroundColor="Pink" HorizontalTextAlignment="Center"/>
+        <Entry x:Name="input2" Placeholder="Enter your Last Name" BackgroundColor="Pink" HorizontalTextAlignment="Center"/>
+
+
+        <Label Text="Your Full Name is: " HorizontalTextAlignment="Center" TextColor="DeepPink" />
+
+
+        <Label HorizontalTextAlignment="Center" TextColor="HotPink" >
+            <Label.FormattedText>
+                <FormattedString>
+                    <Span Text="{Binding Source={x:Reference input1}, Path=Text}" />
+                    <Span Text=" " />
+                    <Span Text="{Binding Source={x:Reference input2}, Path=Text}" />
+                </FormattedString>
+            </Label.FormattedText>
+        </Label>
+    </StackLayout>
+
+</ContentPage>

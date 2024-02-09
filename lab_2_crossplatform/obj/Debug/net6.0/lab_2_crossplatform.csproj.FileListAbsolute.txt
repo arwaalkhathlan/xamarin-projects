@@ -1,0 +1,14 @@
+C:\Users\arwa1\source\repos\lab_2_crossplatform\bin\Debug\net6.0\lab_2_crossplatform.exe
+C:\Users\arwa1\source\repos\lab_2_crossplatform\bin\Debug\net6.0\lab_2_crossplatform.deps.json
+C:\Users\arwa1\source\repos\lab_2_crossplatform\bin\Debug\net6.0\lab_2_crossplatform.runtimeconfig.json
+C:\Users\arwa1\source\repos\lab_2_crossplatform\bin\Debug\net6.0\lab_2_crossplatform.dll
+C:\Users\arwa1\source\repos\lab_2_crossplatform\bin\Debug\net6.0\lab_2_crossplatform.pdb
+C:\Users\arwa1\source\repos\lab_2_crossplatform\obj\Debug\net6.0\lab_2_crossplatform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arwa1\source\repos\lab_2_crossplatform\obj\Debug\net6.0\lab_2_crossplatform.AssemblyInfoInputs.cache
+C:\Users\arwa1\source\repos\lab_2_crossplatform\obj\Debug\net6.0\lab_2_crossplatform.AssemblyInfo.cs
+C:\Users\arwa1\source\repos\lab_2_crossplatform\obj\Debug\net6.0\lab_2_crossplatform.csproj.CoreCompileInputs.cache
+C:\Users\arwa1\source\repos\lab_2_crossplatform\obj\Debug\net6.0\lab_2_crossplatform.dll
+C:\Users\arwa1\source\repos\lab_2_crossplatform\obj\Debug\net6.0\refint\lab_2_crossplatform.dll
+C:\Users\arwa1\source\repos\lab_2_crossplatform\obj\Debug\net6.0\lab_2_crossplatform.pdb
+C:\Users\arwa1\source\repos\lab_2_crossplatform\obj\Debug\net6.0\lab_2_crossplatform.genruntimeconfig.cache
+C:\Users\arwa1\source\repos\lab_2_crossplatform\obj\Debug\net6.0\ref\lab_2_crossplatform.dll

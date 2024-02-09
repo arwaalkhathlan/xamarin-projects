@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "gPf7YmWECsEBUjg3KEcAOgEnXeUDjYKcly7QqZ5+/CMH3OaxyJAhw/Lm/5r70hq1JnXB7IXeyTzC/d50GO/wdg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\arwa1\\source\\repos\\assignmentcpd\\assignmentcpd.iOS\\assignmentcpd.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\arwa1\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\arwa1\\.nuget\\packages\\xamarin.essentials\\1.8.0\\xamarin.essentials.1.8.0.nupkg.sha512",
+    "C:\\Users\\arwa1\\.nuget\\packages\\xamarin.forms\\5.0.0.2622\\xamarin.forms.5.0.0.2622.nupkg.sha512",
+    "C:\\Users\\arwa1\\.nuget\\packages\\xamarin.forms.maps\\5.0.0.2622\\xamarin.forms.maps.5.0.0.2622.nupkg.sha512"
+  ],
+  "logs": []
+}
